@@ -3,11 +3,24 @@ Hi! My name is **Erickson Siqueira**, I'm a developer student from Brazil on the
 
 🥅 I'm really focusing and dedicating all my time to become a FullStack developer with JavaScript, so my goal is to learn all the current used frameworks and technologies.
 
-🧠 Knowledge in the languages, Python, Java, C and JavaScript.
+<div>
+  <span>🧠 Knowledge in the languages:</span>
+    <img align="center" alt="Erickson-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="Erickson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Erickson-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  
+  <span></br>👨🏻‍🎓  I'm currently studying:</span>
+    <img align="center" alt="Erickson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Erickson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Erickson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <span> </br>👩🏿‍🏫 The next technologies that I am aiming to learn:</span>
+    <img align="center" alt="Erickson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Erickson-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Erickson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
+</div>
 
-👨🏻‍🎓  I'm currently studying HTML,CSS and JavaScript.
 
-👩🏿‍🏫 The next technologies that I am aiming to learn are ReactJS and Node.js.
 
 [![ERICKSON's github stats](https://github-readme-stats.vercel.app/api?username=EricksonSiqueira&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/EricksonSiqueira/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricksonSiqueira&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/EricksonSiqueira/github-readme-stats)

@@ -20,7 +20,8 @@ Hi! My name is **Erickson Siqueira**, I'm a developer student from Brazil on the
    <img align="center" alt="Erickson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
    <img align="center" alt="Erickson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
+<br/>
+<br/>
 
 
 

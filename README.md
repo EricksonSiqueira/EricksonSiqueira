@@ -23,8 +23,9 @@ Hi! My name is **Erickson Siqueira**, I'm a developer student from Brazil on the
 
 <div>
   <span>✍️ Studying :</span>
-  
+
    - <img align="center" alt="Erickson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> (Native)
+   - <img align="center" alt="Erickson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
 </div>
 <br/>
 
